@@ -7,3 +7,5 @@
 - [PL03 (Sprint 3)](https://docs.google.com/spreadsheets/d/19HMYxWYKOowdItunHbEIZFemjSMOb54SDHiOqTEVXnM)
 - [PL04](https://docs.google.com/spreadsheets/d/1KFjA9dCbYnqe5iJayDllaxaSHk8Sl5l8VxfH3r5eCB8)
 - [PL04 (Sprint 4)](https://docs.google.com/spreadsheets/d/1YiBZF6Fy__toGPWIbEUHXczOMyWK2rZo5Hx1BlwhyOs)
+- [PL05](https://docs.google.com/spreadsheets/d/1P8qIiwK1TyOjIzyMHt0mUVX47dAnknG8GqCzlx61GIM)
+- [PL05 (Sprint 5)](https://docs.google.com/spreadsheets/d/17maJd5nHVyz9mhgqyZVfTg9g4zOMYd7wPYAtmcRscz0)
