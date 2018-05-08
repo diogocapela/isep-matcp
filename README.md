@@ -10,3 +10,4 @@
 - [PL05](https://docs.google.com/spreadsheets/d/1P8qIiwK1TyOjIzyMHt0mUVX47dAnknG8GqCzlx61GIM)
 - [PL05 (Sprint 5)](https://docs.google.com/spreadsheets/d/17maJd5nHVyz9mhgqyZVfTg9g4zOMYd7wPYAtmcRscz0)
 - [PL06 (Sprint 6)](https://docs.google.com/spreadsheets/d/1ih0QJEyflOHQGMVjztdUfcqy3-BVvlgfokAd5FEtbBc)
+- [PL07 (Sprint 7)](https://docs.google.com/spreadsheets/d/1RP1lUn2ymJDBSLw3OqqHbjrOEKTlkPXdG4QhxuLFoxU)
